@@ -23,7 +23,6 @@
 # Support development of this script by buying me a coffee: https://www.buymeacoffee.com/tmoroney
 #
 
-import stable_whisper
 import time
 import re
 from datetime import datetime, timedelta
